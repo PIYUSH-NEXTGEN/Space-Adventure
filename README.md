@@ -1,4 +1,3 @@
-# Space-Adventure
 import math
 import random
 
